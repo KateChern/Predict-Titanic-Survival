@@ -1,5 +1,4 @@
-# Predict Titanic Survival 
- # Logistic Regression
+# Predict Titanic Survival Logistic Regression
  
 In this project I was creating a Logistic Regression model that predicts which passengers survived the sinking of the Titanic, based on features like age and class. The data I was using for training the model is provided by Kaggle.
 
